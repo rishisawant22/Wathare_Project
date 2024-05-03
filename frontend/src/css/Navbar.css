@@ -1,0 +1,30 @@
+
+.navbar {
+  background-color: #f0f0f0;
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-title {
+  font-weight: bold;
+  font-family: 'Comic Sans MS', cursive;
+  color: rgb(61, 61, 179);
+  margin: 0; 
+  text-align:center;
+  flex: 1; 
+  margin-left: 380px; 
+
+}
+
+.navbar-logo {
+  width: 180px; 
+  height: auto; 
+  margin-left: 580px; 
+}
+
+
+.navbar-logo:hover {
+  filter: brightness(1.5); 
+}
